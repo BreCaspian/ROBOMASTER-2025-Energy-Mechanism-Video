@@ -3,7 +3,7 @@
 </div>
 
 
-<h2 align="center">ROBOMASTER-2025 · 华北理工大学 HORIZON 战队 · 能量机关超清视频</h2>
+<h2 align="center">ROBOMASTER-2025 · 华北理工大学HORIZON战队 · 能量机关超清视频</h2>
 
 ---
 
