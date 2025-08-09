@@ -1,0 +1,22 @@
+# Ensure consistent line endings
+* text=auto eol=lf
+
+# Treat common binary formats as binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.avi binary
+*.mp4 binary
+*.mkv binary
+*.mov binary
+
+# Markdown and text files
+*.md text eol=lf
+*.txt text eol=lf
+
+# Preserve Git LFS hooks if used (uncomment if adopting LFS)
+# *.avi filter=lfs diff=lfs merge=lfs -text
+# *.mp4 filter=lfs diff=lfs merge=lfs -text
+# *.gif filter=lfs diff=lfs merge=lfs -text
+

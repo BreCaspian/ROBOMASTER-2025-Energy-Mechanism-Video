@@ -1,0 +1,45 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Python (not used here, but safe to ignore)
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Node (if any tooling is added later)
+node_modules/
+
+# Logs and temp
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large binaries and archives (keep dataset media external to Git)
+*.avi
+*.mp4
+*.mov
+*.mkv
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+*.iso
+
+# System backup files
+*.bak
+*.old
+
