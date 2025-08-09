@@ -3,16 +3,20 @@
 </div>
 
 
-<h2 align="center">ROBOMASTER-2025 · 华北理工大学 HORIZON 战队 · 能量机关超清视频数据集</h2>
+<h2 align="center">ROBOMASTER-2025 · 华北理工大学 HORIZON 战队 · 能量机关超清视频</h2>
 
 ---
 
 ## 📖 概述
 
-**数据来源：** [华北理工大学 HORIZON 战队 — 雷达组](https://github.com/BreCaspian/RoboMaster-Lidar-Lab)
-**依托平台：** [华北理工 RM 创新实验室](https://space.bilibili.com/481866846?spm_id_from=333.337.0.0)
-**录制时间地点：** ROBOMASTER 2025 超级对抗赛 · 北京理工大学（珠海）南部赛区 · 备赛区雷达站调试阶段
-**数据用途：** 适用于能量机关目标检测、旋转速度估计、视频裁剪训练等 ROBOMASTER 相关视觉任务
+<div align="left">
+
+**数据来源：** [华北理工大学 HORIZON 战队 — 雷达组](https://github.com/BreCaspian/RoboMaster-Lidar-Lab)  
+**依托平台：** [华北理工 RM 创新实验室](https://space.bilibili.com/481866846?spm_id_from=333.337.0.0)  
+**录制时间地点：** ROBOMASTER 2025 超级对抗赛 · 北京理工大学（珠海）南部赛区 · 备赛区雷达站调试阶段  
+**数据用途：** 适用于能量机关目标检测、旋转速度估计、视频裁剪训练等 ROBOMASTER 相关视觉任务  
+
+</div>
 
 > ⚠️ 说明：视频拍摄于赛前调试区，**视角与正式比赛雷达站录像不同**。数据未附带标注，请按需自行标注与裁剪。
 
